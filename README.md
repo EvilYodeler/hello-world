@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-Git tutorial
+Git tutorial-
 There is some serious stuff going on.
